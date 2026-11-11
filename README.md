@@ -1,4 +1,5 @@
-**Applied Sensory Data Analytics & Computational Product Formulation**
+* **Applied Sensory Data Analytics & Computational Product Formulation**
+
  Executive Summary
 This repository houses statistical sensory data pipelines, multivariate perceptual mappings, and product formulation case studies. By combining physical bench-formulation parameters (taste-masking, hydrocolloid interactions, volatile flavor retention) with open-source R sensometric packages (FactoMineR and SensoMineR), these projects convert quantitative sensory panel outputs into actionable product optimization decisions.
 ## Technical Core Competencies
